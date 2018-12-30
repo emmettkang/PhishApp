@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="a">elk9516-lab4-backend.herokuapp.com</string>
+    <string name="ep_with_token">with_token</string>
+    <string name="ep_messaging_base">messaging</string>
+    <string name="ep_messaging_send">send</string>
+
+</resources>

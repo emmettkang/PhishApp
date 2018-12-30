@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">PhishApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_text">Welcome!</string>
+    <string name="message_hint">Write a message!</string>
+    <string name="Login_intro">Please log in or register!</string>
+    <string name="register_intro">Please register for an account!</string>
+    <string name="Login_successful">Login Successful!</string>
+    <string name="email_text">Email address</string>
+    <string name="firstname_text">First Name</string>
+    <string name="lastname_text">Last Name</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="action_logout">Logout</string>
+    <string name="register_button">REGISTER</string>
+    <string name="email_key">ekey</string>
+    <string name="password_key">pkey</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="info_key">key</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Phish App</string>
+    <string name="nav_header_subtitle">TCSS 450 Labs</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="action_blog_post">Blog Post</string>
+    <string name="action_set_list">Set Lists</string>
+    <string name="action_global_chat">Global Chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="blog_key">Blog Key</string>
+    <string name="setList_key">SetList Key</string>
+    <string name="full_post_button">Full Post</string>
+    <string name="ep_base_url">elk9516-lab4-backend.herokuapp.com</string>
+    <string name="ep_login">login</string>
+    <string name="ep_register">register</string>
+    <string name="ep_phish">phish</string>
+    <string name="ep_blog">blog</string>
+    <string name="ep_get">get</string>
+    <string name="ep_set_lists">setlists</string>
+    <string name="ep_recent">recent</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="keys_prefs_email">traffic_light_wont_let_me_through</string>
+    <string name="keys_prefs_password">see_the_city_see_the_zoo</string>
+    <string name="keys_intent_notifification_msg">was app started from message notification?</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Success_Fragment_View"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/action_home" />
+
+
+        <item
+            android:id="@+id/Blog_Fragment_View"
+            android:icon="@drawable/ic_font_download_black_24dp"
+            android:title="@string/action_blog_post" />
+
+        <item
+            android:id="@+id/Setlist_Fragment_View"
+            android:icon="@drawable/ic_playlist_add_black_24dp"
+            android:title="@string/action_set_list" />
+
+        <item
+            android:id="@+id/Message_Fragment_View"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="@string/action_global_chat" />
+
+    </group>
+
+</menu>
